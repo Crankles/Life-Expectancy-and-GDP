@@ -5,8 +5,10 @@ An analysis into the relationship between GDP life expectancy across 6 countries
 
 Investigating time series data using predominantly visual methods.  
 The data in `all_data.csv` is in the form:
+
 | Country | Year | Life expectancy at birth (years) | GDP |
 | --- | --- | --- | --- |
+
 Where GDP is [Gross Domestic Product](https://en.wikipedia.org/wiki/Gross_domestic_product)
 
 By loading the data into a Pandas `DataFrame`, Seaborn can be used to efficently create visualisations for analysis.  
